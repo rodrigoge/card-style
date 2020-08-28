@@ -1,9 +1,9 @@
-<h1 align="center">
+<h1>
     Card animado
 </h1>
 
 
-![](video.mp4)
+![](video.gif)
 _________
 
 ### 🤔 Mas o que é isso? 
